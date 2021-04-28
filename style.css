@@ -5,4 +5,5 @@ p {
 }
 button {
    color: rebeccapurple;
+   white-space: normal;
 }
