@@ -7,4 +7,5 @@ button {
    color: rebeccapurple;
    white-space: normal;
    text-align: center;
+   font: 1em sans-serif;
 }
