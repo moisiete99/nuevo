@@ -1,11 +1,6 @@
 p {
-   color: aliceblue;
    font-size: 15pt;
    font-family: 'Courier New', Courier, monospace;
-}
-button {
-   color: rebeccapurple;
-   white-space: normal;
+   color: black;
    text-align: center;
-   font: 1em sans-serif;
 }
